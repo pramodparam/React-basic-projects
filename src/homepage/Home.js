@@ -32,7 +32,7 @@ const Home = () => {
                         }
                     </HomeWrapper>
                     <footer id="footer">
-                        <p>Built by | <a href="pr-my-portfolio.vercel.app">Pramod R</a></p>
+                        <p>Built by | <a href="https://pr-my-portfolio.vercel.app">Pramod R</a></p>
                     </footer>
                 </div>
             </HomePage>
