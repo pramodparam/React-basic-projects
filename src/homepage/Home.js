@@ -15,7 +15,7 @@ const Home = () => {
                 <div className="container">
                     <header id="header">
                         <h1><span>React</span> Projects</h1>
-                        <a href="https://github.com/pramodparam/React-basics-projects">
+                        <a href="https://github.com/pramodparam/React-basic-projects">
                             github.com/pramodparam/React-basic-projects
                         </a>
                     </header>
